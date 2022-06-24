@@ -1,7 +1,7 @@
 function Child1() {
     return(
         <div>
-            welocme to child1 components
+            welocme to child1 componets and add your components here components
         </div>
     )
 }
